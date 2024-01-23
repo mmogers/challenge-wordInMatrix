@@ -1,6 +1,7 @@
 # Word in Matrix
 In matrix of chars find out if the word exists. 
 Can navigate vertically and horizontally, not twice in the same cell.
+All should be in lower case, or some other checks should be added.
 
 Example
 
